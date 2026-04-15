@@ -225,12 +225,6 @@ The notebooks are designed for **Google Colab** with Drive mounting. Open in Col
 - A lightweight custom CNN (93%) outperforms off-the-shelf transfer-learning models because ImageNet features do not generalise well to single-channel depth data
 - Real-time classification can feed a closed-loop feedback controller, stopping the printer the moment a *Wire Bad* layer is detected
 
-## Future Work
-
-- Hyperparameter tuning and architecture search for the custom CNN
-- Integration with a live printer feedback controller
-- Exploration of CNNs pre-trained on grayscale or depth-image datasets
-
 ---
 
 ## Author
