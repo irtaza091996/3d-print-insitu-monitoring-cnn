@@ -1,0 +1,17 @@
+# Trained model weights (large binary files – not tracked in git)
+Model Files/
+*.h5
+*.keras
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
