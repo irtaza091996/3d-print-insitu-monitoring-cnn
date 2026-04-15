@@ -1,7 +1,7 @@
 # Image-based In-situ Monitoring of 3D Printing with CNNs
 
 Research project conducted at the **Institute of Mechatronic Engineering, TU Dresden**  
-Supervisor: Dr.-Ing. Valentin Lang &nbsp;|&nbsp; Examiner: Prof. Dr.-Ing. Steffen Ihlenfeldt
+
 
 ---
 
