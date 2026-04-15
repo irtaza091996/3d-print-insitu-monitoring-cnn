@@ -93,11 +93,11 @@ The original dataset is small, so an augmentation pipeline is applied to reach a
 
 | Class | Original Files | After Augmentation |
 |---|---|---|
-| Infill | 85 | 3 060 |
-| Solid | 82 | 2 952 |
-| Wire Good | 50 | 1 800 |
-| Wire Bad | 115 | 4 140 |
-| **Total** | **332** | **11 952** |
+| Infill | 85 | 3060 |
+| Solid | 82 | 2952 |
+| Wire Good | 50 | 1800 |
+| Wire Bad | 115 | 4140 |
+| **Total** | **332** | **11952** |
 
 > The raw dataset is not included in this repository. To request access to the data, contact the author directly (details below).
 
